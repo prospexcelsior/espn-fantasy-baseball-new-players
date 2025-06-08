@@ -49,18 +49,19 @@ def chunk_tweets(lines, header=""):
     return chunks
 
 def post_thread(tweets):
-    auth = tweepy.OAuth1UserHandler(
-        os.environ["API_KEY"], os.environ["API_SECRET"],
-        os.environ["ACCESS_TOKEN"], os.environ["ACCESS_SECRET"]
+    client = tweepy.Client(
+        os.environ["BEARER_TOKEN"], 
+        os.environ["API_KEY"], 
+        os.environ["API_SECRET"],
+        os.environ["ACCESS_TOKEN"], 
+        os.environ["ACCESS_SECRET"],
     )
-    api = tweepy.API(auth)
 
-    first = api.update_status(tweets[0])
-    reply_to_id = first.id
-
+    response = client.create_tweet(text=tweets[0])
+    thread_id = response.data["id"]
     for tweet in tweets[1:]:
-        post = api.update_status(tweet, in_reply_to_status_id=reply_to_id, auto_populate_reply_metadata=True)
-        reply_to_id = post.id
+        response = client.create_tweet(text=tweet, in_reply_to_tweet_id=thread_id)
+        thread_id = response.data["id"]
 
 def main():
     current_players = get_players()
