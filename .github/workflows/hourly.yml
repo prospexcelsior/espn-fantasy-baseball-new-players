@@ -1,4 +1,4 @@
-name: Daily Fantasy Player Checker
+name: Hourly Fantasy Player Checker
 
 on:
   schedule:
