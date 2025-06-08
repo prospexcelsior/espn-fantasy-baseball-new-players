@@ -77,11 +77,11 @@ def main():
         for tweet in tweets:
             print("===")
             print(tweet)
-        # post_thread(tweets)
+        post_thread(tweets)
     else:
         print("No new players")
 
-    # save_players(current_players)
+    save_players(current_players)
 
 if __name__ == "__main__":
     main()
