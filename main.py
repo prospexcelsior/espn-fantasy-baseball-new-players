@@ -77,7 +77,10 @@ def main():
         for tweet in tweets:
             print("===")
             print(tweet)
-        post_thread(tweets)
+        try:
+            post_thread(tweets)
+        except:
+            traceback.print_exc()
     else:
         print("No new players")
 
