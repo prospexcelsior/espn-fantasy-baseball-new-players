@@ -72,7 +72,7 @@ def main():
 
     if new_players:
         lines = [f"{p['name']}" for p in new_players]
-        header = f"🆕 New Fantasy Baseball Players as of {date.today()}:"
+        header = f"🆕 ESPN New Fantasy Baseball Players as of {date.today()}:"
         tweets = chunk_tweets(lines, header)
 
         for tweet in tweets:
