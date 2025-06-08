@@ -58,6 +58,8 @@ def main():
 
         print(tweet_text)
         # post_to_twitter(tweet_text)
+    else:
+        print("No new players")
 
     save_players(current_players)
 
