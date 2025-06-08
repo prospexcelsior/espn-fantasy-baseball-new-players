@@ -31,8 +31,12 @@ jobs:
 
       - name: Commit updated players.json
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add players.json
-          git diff --cached --quiet || git commit -m "Update players list [bot]"
-          git push
+          if [ -f players.json ]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add players.json
+            git diff --cached --quiet || git commit -m "Update players list [bot]"
+            git push
+          else
+            echo "players.json not found — skipping commit"
+          fi
