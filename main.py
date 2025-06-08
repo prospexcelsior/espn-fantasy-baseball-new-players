@@ -22,6 +22,7 @@ def get_players():
         if player_id and full_name:
             players.append({"id": player_id, "name": full_name})
 
+    players.sort(key=lambda x: x['id'])
     return players
 
 def load_previous_players(file='players.json'):
