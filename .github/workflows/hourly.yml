@@ -2,7 +2,7 @@ name: Hourly Fantasy Player Checker
 
 on:
   schedule:
-    - cron: '30 * * * *'  # Every day at 09:00 UTC
+    - cron: '30 * * * *' 
   workflow_dispatch:
 
 jobs:
