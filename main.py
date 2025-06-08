@@ -36,13 +36,31 @@ def save_players(players, file='players.json'):
     with open(file, 'w') as f:
         json.dump(players, f, indent=2)
 
-def post_to_twitter(message):
+def chunk_tweets(lines, header=""):
+    chunks = []
+    tweet = header
+    for line in lines:
+        if len(tweet + "\n" + line) <= 280:
+            tweet += "\n" + line
+        else:
+            chunks.append(tweet)
+            tweet = line
+    chunks.append(tweet)
+    return chunks
+
+def post_thread(tweets):
     auth = tweepy.OAuth1UserHandler(
         os.environ["API_KEY"], os.environ["API_SECRET"],
         os.environ["ACCESS_TOKEN"], os.environ["ACCESS_SECRET"]
     )
     api = tweepy.API(auth)
-    api.update_status(message)
+
+    first = api.update_status(tweets[0])
+    reply_to_id = first.id
+
+    for tweet in tweets[1:]:
+        post = api.update_status(tweet, in_reply_to_status_id=reply_to_id, auto_populate_reply_metadata=True)
+        reply_to_id = post.id
 
 def main():
     current_players = get_players()
@@ -52,13 +70,14 @@ def main():
     new_players = [p for p in current_players if p['id'] not in previous_ids]
 
     if new_players:
-        lines = [f"{p['name']} (ID: {p['id']})" for p in new_players]
-        tweet_text = f"🆕 New Fantasy Baseball Players as of {date.today()}:\n" + "\n".join(lines[:5])
-        if len(lines) > 5:
-            tweet_text += f"\n+{len(lines)-5} more..."
+        lines = [f"{p['name']}" for p in new_players]
+        header = f"🆕 New Fantasy Baseball Players as of {date.today()}:"
+        tweets = chunk_tweets(lines, header)
 
-        print(tweet_text)
-        # post_to_twitter(tweet_text)
+        for tweet in tweets:
+            print("===")
+            print(tweet)
+        # post_thread(tweets)
     else:
         print("No new players")
 
