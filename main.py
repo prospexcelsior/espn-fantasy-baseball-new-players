@@ -4,6 +4,7 @@ import requests
 from datetime import date
 import tweepy
 
+
 def get_players():
     url = "https://lm-api-reads.fantasy.espn.com/apis/v3/games/flb/seasons/2025/players?scoringPeriodId=0&view=players_wl"
     headers = {
