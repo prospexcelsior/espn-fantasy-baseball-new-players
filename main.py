@@ -3,18 +3,25 @@ import os
 import requests
 from datetime import date
 import tweepy
+from pprint import pprint
 
 
 def get_players():
-    url = "https://lm-api-reads.fantasy.espn.com/apis/v3/games/flb/seasons/2025/players?scoringPeriodId=0&view=players_wl"
+    url = "https://lm-api-reads.fantasy.espn.com/apis/v3/games/flb/seasons/2026/players"
+    params = {
+        "scoringPeriodId": 0,
+        "view": "players_wl"
+    }
+    
     headers = {
         "X-Fantasy-Filter": json.dumps({"filterActive": {"value": True}}),
-        "Accept": "application/json"
+        "X-Fantasy-Source": "kona",
+        "Accept": "application/json",
     }
-
-    response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=headers, params=params)
     response.raise_for_status()
     data = response.json()
+    pprint(data)
 
     players = []
     for player_info in data:
