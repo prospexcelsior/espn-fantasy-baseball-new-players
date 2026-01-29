@@ -4,10 +4,6 @@
     "name": "Luis Ortiz"
   },
   {
-    "id": 5883,
-    "name": "Zack Greinke"
-  },
-  {
     "id": 6204,
     "name": "Robinson Cano"
   },
@@ -18,18 +14,6 @@
   {
     "id": 6341,
     "name": "Justin Verlander"
-  },
-  {
-    "id": 6470,
-    "name": "Yusmeiro Petit"
-  },
-  {
-    "id": 28639,
-    "name": "Evan Longoria"
-  },
-  {
-    "id": 28670,
-    "name": "Joey Votto"
   },
   {
     "id": 28701,
@@ -64,24 +48,12 @@
     "name": "Jesse Chavez"
   },
   {
-    "id": 29229,
-    "name": "Alcides Escobar"
-  },
-  {
-    "id": 29430,
-    "name": "Deolis Guerra"
-  },
-  {
     "id": 29515,
     "name": "Elvis Andrus"
   },
   {
     "id": 29551,
     "name": "Jason Heyward"
-  },
-  {
-    "id": 29563,
-    "name": "Josh Donaldson"
   },
   {
     "id": 29607,
@@ -100,40 +72,12 @@
     "name": "Adam Ottavino"
   },
   {
-    "id": 29949,
-    "name": "Madison Bumgarner"
-  },
-  {
     "id": 29951,
     "name": "Travis d'Arnaud"
   },
   {
-    "id": 29955,
-    "name": "Charlie Culberson"
-  },
-  {
     "id": 29989,
     "name": "Paolo Espino"
-  },
-  {
-    "id": 29999,
-    "name": "Mike Moustakas"
-  },
-  {
-    "id": 30043,
-    "name": "Michael Brantley"
-  },
-  {
-    "id": 30074,
-    "name": "Matt Bush"
-  },
-  {
-    "id": 30147,
-    "name": "Jhoulys Chacin"
-  },
-  {
-    "id": 30158,
-    "name": "Daniel Bard"
   },
   {
     "id": 30189,
@@ -164,10 +108,6 @@
     "name": "Martin Maldonado"
   },
   {
-    "id": 30327,
-    "name": "Marwin Gonzalez"
-  },
-  {
     "id": 30376,
     "name": "Daniel Hudson"
   },
@@ -178,14 +118,6 @@
   {
     "id": 30417,
     "name": "Fernando Abad"
-  },
-  {
-    "id": 30429,
-    "name": "Max Stassi"
-  },
-  {
-    "id": 30433,
-    "name": "JC Ramirez"
   },
   {
     "id": 30442,
@@ -200,20 +132,12 @@
     "name": "Ehire Adrianza"
   },
   {
-    "id": 30514,
-    "name": "Rafael Dolis"
-  },
-  {
     "id": 30520,
     "name": "Casey Kelly"
   },
   {
     "id": 30545,
     "name": "Kyle Higashioka"
-  },
-  {
-    "id": 30546,
-    "name": "Zach McAllister"
   },
   {
     "id": 30577,
@@ -240,14 +164,6 @@
     "name": "Leury Garcia"
   },
   {
-    "id": 30694,
-    "name": "Pedro Baez"
-  },
-  {
-    "id": 30699,
-    "name": "AJ Pollock"
-  },
-  {
     "id": 30705,
     "name": "Jay Jackson"
   },
@@ -258,10 +174,6 @@
   {
     "id": 30738,
     "name": "Shelby Miller"
-  },
-  {
-    "id": 30743,
-    "name": "Trayce Thompson"
   },
   {
     "id": 30765,
@@ -288,28 +200,8 @@
     "name": "Mike Trout"
   },
   {
-    "id": 30862,
-    "name": "Chris Owings"
-  },
-  {
     "id": 30878,
     "name": "Hernan Perez"
-  },
-  {
-    "id": 30901,
-    "name": "Brandon Belt"
-  },
-  {
-    "id": 30934,
-    "name": "Josh Harrison"
-  },
-  {
-    "id": 30937,
-    "name": "Michael Pineda"
-  },
-  {
-    "id": 30942,
-    "name": "Jhan Marinez"
   },
   {
     "id": 30948,
@@ -322,14 +214,6 @@
   {
     "id": 30951,
     "name": "Bryce Harper"
-  },
-  {
-    "id": 30981,
-    "name": "Corey Kluber"
-  },
-  {
-    "id": 30993,
-    "name": "Eric Hosmer"
   },
   {
     "id": 31010,
@@ -352,10 +236,6 @@
     "name": "Jean Segura"
   },
   {
-    "id": 31042,
-    "name": "Billy Hamilton"
-  },
-  {
     "id": 31048,
     "name": "Anthony Gose"
   },
@@ -376,20 +256,12 @@
     "name": "J.D. Martinez"
   },
   {
-    "id": 31077,
-    "name": "Brad Hand"
-  },
-  {
     "id": 31084,
     "name": "Charlie Blackmon"
   },
   {
     "id": 31086,
     "name": "Alex Cobb"
-  },
-  {
-    "id": 31087,
-    "name": "Arodys Vizcaino"
   },
   {
     "id": 31091,
@@ -424,10 +296,6 @@
     "name": "Jurickson Profar"
   },
   {
-    "id": 31123,
-    "name": "Manny Banuelos"
-  },
-  {
     "id": 31127,
     "name": "Salvador Perez"
   },
@@ -440,14 +308,6 @@
     "name": "Rob Brantly"
   },
   {
-    "id": 31140,
-    "name": "Wily Peralta"
-  },
-  {
-    "id": 31144,
-    "name": "Anthony Bass"
-  },
-  {
     "id": 31173,
     "name": "Tucker Barnhart"
   },
@@ -458,18 +318,6 @@
   {
     "id": 31187,
     "name": "Nick Castellanos"
-  },
-  {
-    "id": 31188,
-    "name": "Dixon Machado"
-  },
-  {
-    "id": 31195,
-    "name": "Jake Marisnick"
-  },
-  {
-    "id": 31200,
-    "name": "Ronald Torreyes"
   },
   {
     "id": 31206,
@@ -504,10 +352,6 @@
     "name": "Tyler Matzek"
   },
   {
-    "id": 31265,
-    "name": "Wil Myers"
-  },
-  {
     "id": 31267,
     "name": "Zack Wheeler"
   },
@@ -520,16 +364,8 @@
     "name": "Patrick Corbin"
   },
   {
-    "id": 31327,
-    "name": "Ender Inciarte"
-  },
-  {
     "id": 31358,
     "name": "Enrique Hernandez"
-  },
-  {
-    "id": 31376,
-    "name": "Didi Gregorius"
   },
   {
     "id": 31385,
@@ -548,32 +384,12 @@
     "name": "Randal Grichuk"
   },
   {
-    "id": 31410,
-    "name": "Juan Lagares"
-  },
-  {
-    "id": 31413,
-    "name": "Kole Calhoun"
-  },
-  {
-    "id": 31444,
-    "name": "Aderlin Rodriguez"
-  },
-  {
     "id": 31446,
     "name": "Kevin Kiermaier"
   },
   {
-    "id": 31470,
-    "name": "Darin Ruf"
-  },
-  {
     "id": 31474,
     "name": "Abraham Almonte"
-  },
-  {
-    "id": 31495,
-    "name": "Brad Boxberger"
   },
   {
     "id": 31549,
@@ -582,10 +398,6 @@
   {
     "id": 31606,
     "name": "Xander Bogaerts"
-  },
-  {
-    "id": 31618,
-    "name": "Mychal Givens"
   },
   {
     "id": 31662,
@@ -604,20 +416,8 @@
     "name": "Jose Cisnero"
   },
   {
-    "id": 31684,
-    "name": "Corey Dickerson"
-  },
-  {
     "id": 31687,
     "name": "Jeurys Familia"
-  },
-  {
-    "id": 31706,
-    "name": "Tommy Milone"
-  },
-  {
-    "id": 31730,
-    "name": "Noah Syndergaard"
   },
   {
     "id": 31737,
@@ -640,10 +440,6 @@
     "name": "Jiman Choi"
   },
   {
-    "id": 31806,
-    "name": "Zach Neal"
-  },
-  {
     "id": 31815,
     "name": "Dallas Keuchel"
   },
@@ -660,10 +456,6 @@
     "name": "Rafael Ortega"
   },
   {
-    "id": 31840,
-    "name": "Heath Hembree"
-  },
-  {
     "id": 31864,
     "name": "Taijuan Walker"
   },
@@ -676,20 +468,12 @@
     "name": "Max Kepler"
   },
   {
-    "id": 31878,
-    "name": "Vince Velasquez"
-  },
-  {
     "id": 31939,
     "name": "Wilking Rodriguez"
   },
   {
     "id": 31944,
     "name": "Eddie Rosario"
-  },
-  {
-    "id": 31973,
-    "name": "Jonathan Villar"
   },
   {
     "id": 31980,
@@ -712,10 +496,6 @@
     "name": "Brooks Raley"
   },
   {
-    "id": 32030,
-    "name": "Lucas Luetge"
-  },
-  {
     "id": 32046,
     "name": "James McCann"
   },
@@ -726,10 +506,6 @@
   {
     "id": 32055,
     "name": "Yu Darvish"
-  },
-  {
-    "id": 32061,
-    "name": "Kolten Wong"
   },
   {
     "id": 32078,
@@ -748,20 +524,12 @@
     "name": "Anthony Rendon"
   },
   {
-    "id": 32099,
-    "name": "Jose Alvarez"
-  },
-  {
     "id": 32101,
     "name": "Sandy Leon"
   },
   {
     "id": 32106,
     "name": "Jose Quintana"
-  },
-  {
-    "id": 32107,
-    "name": "Ryan Tepera"
   },
   {
     "id": 32108,
@@ -812,14 +580,6 @@
     "name": "Tyler Anderson"
   },
   {
-    "id": 32153,
-    "name": "Jorge Bonifacio"
-  },
-  {
-    "id": 32155,
-    "name": "C.J. Cron"
-  },
-  {
     "id": 32156,
     "name": "Scott Barlow"
   },
@@ -864,28 +624,12 @@
     "name": "Blake Treinen"
   },
   {
-    "id": 32206,
-    "name": "Brad Miller"
-  },
-  {
-    "id": 32217,
-    "name": "Tommy La Stella"
-  },
-  {
     "id": 32219,
     "name": "Michael A. Taylor"
   },
   {
-    "id": 32227,
-    "name": "Drew Maggi"
-  },
-  {
     "id": 32264,
     "name": "Yolmer Sanchez"
-  },
-  {
-    "id": 32265,
-    "name": "Roberto Perez"
   },
   {
     "id": 32269,
@@ -896,16 +640,8 @@
     "name": "Jon Berti"
   },
   {
-    "id": 32286,
-    "name": "Danry Vasquez"
-  },
-  {
     "id": 32323,
     "name": "Jace Peterson"
-  },
-  {
-    "id": 32345,
-    "name": "Adrian Sanchez"
   },
   {
     "id": 32351,
@@ -916,24 +652,12 @@
     "name": "Nick Ahmed"
   },
   {
-    "id": 32362,
-    "name": "Jackie Bradley Jr."
-  },
-  {
     "id": 32367,
     "name": "Eugenio Suarez"
   },
   {
     "id": 32377,
     "name": "Hector Neris"
-  },
-  {
-    "id": 32397,
-    "name": "Aaron Loup"
-  },
-  {
-    "id": 32409,
-    "name": "Michael Mariot"
   },
   {
     "id": 32422,
@@ -948,10 +672,6 @@
     "name": "Caleb Thielbar"
   },
   {
-    "id": 32443,
-    "name": "R.J. Alaniz"
-  },
-  {
     "id": 32470,
     "name": "Jose Peraza"
   },
@@ -964,16 +684,8 @@
     "name": "Ketel Marte"
   },
   {
-    "id": 32516,
-    "name": "Michael Perez"
-  },
-  {
     "id": 32517,
     "name": "Josh Bell"
-  },
-  {
-    "id": 32518,
-    "name": "Archie Bradley"
   },
   {
     "id": 32521,
@@ -1000,20 +712,12 @@
     "name": "Willson Contreras"
   },
   {
-    "id": 32545,
-    "name": "Jose Briceno"
-  },
-  {
     "id": 32549,
     "name": "Matt Andriese"
   },
   {
     "id": 32558,
     "name": "Jorge Soler"
-  },
-  {
-    "id": 32569,
-    "name": "Collin McHugh"
   },
   {
     "id": 32582,
@@ -1052,20 +756,12 @@
     "name": "Byron Buxton"
   },
   {
-    "id": 32657,
-    "name": "Mike Zunino"
-  },
-  {
     "id": 32659,
     "name": "Edwin Escobar"
   },
   {
     "id": 32664,
     "name": "Adam Duvall"
-  },
-  {
-    "id": 32666,
-    "name": "Hansel Robles"
   },
   {
     "id": 32667,
@@ -1100,28 +796,12 @@
     "name": "Corey Seager"
   },
   {
-    "id": 32693,
-    "name": "Roberto Osuna"
-  },
-  {
     "id": 32697,
     "name": "Lucas Giolito"
   },
   {
     "id": 32698,
     "name": "David Dahl"
-  },
-  {
-    "id": 32704,
-    "name": "Shane Greene"
-  },
-  {
-    "id": 32709,
-    "name": "Sean Nolin"
-  },
-  {
-    "id": 32715,
-    "name": "Taylor Motter"
   },
   {
     "id": 32721,
@@ -1132,20 +812,12 @@
     "name": "Jackson Stephens"
   },
   {
-    "id": 32742,
-    "name": "Jake Lamb"
-  },
-  {
     "id": 32751,
     "name": "Travis Jankowski"
   },
   {
     "id": 32758,
     "name": "Christian Walker"
-  },
-  {
-    "id": 32759,
-    "name": "Jose Rondon"
   },
   {
     "id": 32760,
@@ -1188,10 +860,6 @@
     "name": "Chris Stratton"
   },
   {
-    "id": 32788,
-    "name": "Tyler Naquin"
-  },
-  {
     "id": 32789,
     "name": "Ross Stripling"
   },
@@ -1224,10 +892,6 @@
     "name": "Jose Berrios"
   },
   {
-    "id": 32813,
-    "name": "Chase De Jong"
-  },
-  {
     "id": 32815,
     "name": "Marcus Stroman"
   },
@@ -1236,20 +900,8 @@
     "name": "Joey Gallo"
   },
   {
-    "id": 32820,
-    "name": "Nomar Mazara"
-  },
-  {
-    "id": 32821,
-    "name": "Adalberto Mondesi"
-  },
-  {
     "id": 32827,
     "name": "Clay Holmes"
-  },
-  {
-    "id": 32830,
-    "name": "Duane Underwood Jr."
   },
   {
     "id": 32833,
@@ -1276,10 +928,6 @@
     "name": "Patrick Wisdom"
   },
   {
-    "id": 32868,
-    "name": "Odubel Herrera"
-  },
-  {
     "id": 32888,
     "name": "Yimi Garcia"
   },
@@ -1292,20 +940,12 @@
     "name": "Chris Martin"
   },
   {
-    "id": 32918,
-    "name": "Ali Jesus Castillo"
-  },
-  {
     "id": 32961,
     "name": "Austin Nola"
   },
   {
     "id": 32968,
     "name": "Merrill Kelly"
-  },
-  {
-    "id": 32980,
-    "name": "Matt Reynolds"
   },
   {
     "id": 32985,
@@ -1324,16 +964,8 @@
     "name": "Erik Gonzalez"
   },
   {
-    "id": 33019,
-    "name": "Juan Graterol"
-  },
-  {
     "id": 33039,
     "name": "Mookie Betts"
-  },
-  {
-    "id": 33065,
-    "name": "Tomas Telis"
   },
   {
     "id": 33072,
@@ -1346,10 +978,6 @@
   {
     "id": 33089,
     "name": "Luis Garcia"
-  },
-  {
-    "id": 33091,
-    "name": "Dilson Herrera"
   },
   {
     "id": 33095,
@@ -1372,20 +1000,12 @@
     "name": "Jesse Hahn"
   },
   {
-    "id": 33121,
-    "name": "Drew VerHagen"
-  },
-  {
     "id": 33123,
     "name": "Scott Alexander"
   },
   {
     "id": 33124,
     "name": "Aaron Brooks"
-  },
-  {
-    "id": 33130,
-    "name": "Adam Kolarek"
   },
   {
     "id": 33138,
@@ -1432,14 +1052,6 @@
     "name": "Tim Anderson"
   },
   {
-    "id": 33185,
-    "name": "Christian Arroyo"
-  },
-  {
-    "id": 33188,
-    "name": "Clint Frazier"
-  },
-  {
     "id": 33190,
     "name": "Tyler Glasnow"
   },
@@ -1456,20 +1068,8 @@
     "name": "Ben Lively"
   },
   {
-    "id": 33195,
-    "name": "Dawel Lugo"
-  },
-  {
     "id": 33196,
     "name": "Billy McKinney"
-  },
-  {
-    "id": 33197,
-    "name": "Austin Meadows"
-  },
-  {
-    "id": 33199,
-    "name": "Daniel Norris"
   },
   {
     "id": 33202,
@@ -1486,10 +1086,6 @@
   {
     "id": 33210,
     "name": "J.P. Crawford"
-  },
-  {
-    "id": 33213,
-    "name": "Alex Reyes"
   },
   {
     "id": 33215,
@@ -1520,20 +1116,8 @@
     "name": "Tom Murphy"
   },
   {
-    "id": 33226,
-    "name": "Franklin Barreto"
-  },
-  {
     "id": 33229,
     "name": "Victor Caratini"
-  },
-  {
-    "id": 33233,
-    "name": "Hunter Dozier"
-  },
-  {
-    "id": 33235,
-    "name": "Michael Feliz"
   },
   {
     "id": 33241,
@@ -1584,14 +1168,6 @@
     "name": "Raimel Tapia"
   },
   {
-    "id": 33265,
-    "name": "Lewis Thorpe"
-  },
-  {
-    "id": 33267,
-    "name": "Nick Wittgren"
-  },
-  {
     "id": 33271,
     "name": "Luke Maile"
   },
@@ -1612,24 +1188,12 @@
     "name": "Kyle Farmer"
   },
   {
-    "id": 33290,
-    "name": "Deivy Grullon"
-  },
-  {
     "id": 33297,
     "name": "Jose Mujica"
   },
   {
     "id": 33298,
     "name": "Jairo Labourt"
-  },
-  {
-    "id": 33299,
-    "name": "Pedro Severino"
-  },
-  {
-    "id": 33300,
-    "name": "Jefry Rodriguez"
   },
   {
     "id": 33301,
@@ -1648,10 +1212,6 @@
     "name": "Trevor Williams"
   },
   {
-    "id": 33309,
-    "name": "Dylan Covey"
-  },
-  {
     "id": 33325,
     "name": "Chad Green"
   },
@@ -1668,10 +1228,6 @@
     "name": "Mike Yastrzemski"
   },
   {
-    "id": 33351,
-    "name": "Trey Mancini"
-  },
-  {
     "id": 33372,
     "name": "Nick Martinez"
   },
@@ -1682,10 +1238,6 @@
   {
     "id": 33384,
     "name": "David Peralta"
-  },
-  {
-    "id": 33386,
-    "name": "Chi Chi Gonzalez"
   },
   {
     "id": 33390,
@@ -1708,20 +1260,12 @@
     "name": "Jake Cave"
   },
   {
-    "id": 33451,
-    "name": "Robel Garcia"
-  },
-  {
     "id": 33452,
     "name": "Eric Haase"
   },
   {
     "id": 33453,
     "name": "Matt Duffy"
-  },
-  {
-    "id": 33477,
-    "name": "Spencer Patton"
   },
   {
     "id": 33481,
@@ -1736,10 +1280,6 @@
     "name": "Shawn Armstrong"
   },
   {
-    "id": 33513,
-    "name": "Richard Bleier"
-  },
-  {
     "id": 33517,
     "name": "Elier Hernandez"
   },
@@ -1748,20 +1288,12 @@
     "name": "Jack Lopez"
   },
   {
-    "id": 33522,
-    "name": "Humberto Arteaga"
-  },
-  {
     "id": 33546,
     "name": "Adam Frazier"
   },
   {
     "id": 33557,
     "name": "Sean Murphy"
-  },
-  {
-    "id": 33563,
-    "name": "Ryan Weber"
   },
   {
     "id": 33572,
@@ -1780,10 +1312,6 @@
     "name": "Emerson Jimenez"
   },
   {
-    "id": 33614,
-    "name": "Trevor Gott"
-  },
-  {
     "id": 33618,
     "name": "Raisel Iglesias"
   },
@@ -1794,10 +1322,6 @@
   {
     "id": 33627,
     "name": "Buck Farmer"
-  },
-  {
-    "id": 33628,
-    "name": "Alex Claudio"
   },
   {
     "id": 33636,
@@ -1816,20 +1340,8 @@
     "name": "Tayron Guerrero"
   },
   {
-    "id": 33659,
-    "name": "Wilmer Difo"
-  },
-  {
     "id": 33660,
     "name": "Domingo German"
-  },
-  {
-    "id": 33663,
-    "name": "Domingo Leyba"
-  },
-  {
-    "id": 33665,
-    "name": "Jandel Gustave"
   },
   {
     "id": 33667,
@@ -1866,10 +1378,6 @@
   {
     "id": 33696,
     "name": "Carlos Rodon"
-  },
-  {
-    "id": 33698,
-    "name": "Cam Gallagher"
   },
   {
     "id": 33705,
@@ -1918,10 +1426,6 @@
   {
     "id": 33728,
     "name": "Nick Burdi"
-  },
-  {
-    "id": 33731,
-    "name": "Mike Mayers"
   },
   {
     "id": 33732,
@@ -1992,6 +1496,10 @@
     "name": "Jomar Reyes"
   },
   {
+    "id": 33773,
+    "name": "Foster Griffin"
+  },
+  {
     "id": 33774,
     "name": "Marcos Diplan"
   },
@@ -2010,10 +1518,6 @@
   {
     "id": 33783,
     "name": "Ozzie Albies"
-  },
-  {
-    "id": 33785,
-    "name": "Aristides Aquino"
   },
   {
     "id": 33786,
@@ -2068,14 +1572,6 @@
     "name": "Edmundo Sosa"
   },
   {
-    "id": 33811,
-    "name": "Andrew Bellatti"
-  },
-  {
-    "id": 33814,
-    "name": "Magneuris Sierra"
-  },
-  {
     "id": 33816,
     "name": "Scott Blewett"
   },
@@ -2092,24 +1588,12 @@
     "name": "Ricardo Pinto"
   },
   {
-    "id": 33822,
-    "name": "Brett Phillips"
-  },
-  {
-    "id": 33823,
-    "name": "Michael Chavis"
-  },
-  {
     "id": 33826,
     "name": "Dom Nunez"
   },
   {
     "id": 33828,
     "name": "Yairo Munoz"
-  },
-  {
-    "id": 33829,
-    "name": "Zach Davies"
   },
   {
     "id": 33830,
@@ -2200,16 +1684,8 @@
     "name": "Tyler Wade"
   },
   {
-    "id": 33881,
-    "name": "Luis Gonzalez"
-  },
-  {
     "id": 33900,
     "name": "Jeff McNeil"
-  },
-  {
-    "id": 33911,
-    "name": "Brandon Dixon"
   },
   {
     "id": 33912,
@@ -2268,20 +1744,12 @@
     "name": "Edwin Espinal"
   },
   {
-    "id": 34064,
-    "name": "Adam Engel"
-  },
-  {
     "id": 34066,
     "name": "Jos\u00e9 Cardona"
   },
   {
     "id": 34068,
     "name": "Fernando Cruz"
-  },
-  {
-    "id": 34072,
-    "name": "Tzu-Wei Lin"
   },
   {
     "id": 34083,
@@ -2296,10 +1764,6 @@
     "name": "Fernery Ozuna"
   },
   {
-    "id": 34088,
-    "name": "Erick Castillo"
-  },
-  {
     "id": 34089,
     "name": "Jacob Stallings"
   },
@@ -2308,16 +1772,8 @@
     "name": "Omar Carrizales"
   },
   {
-    "id": 34102,
-    "name": "Anthony Bemboom"
-  },
-  {
     "id": 34119,
     "name": "Silvino Bracho"
-  },
-  {
-    "id": 34165,
-    "name": "Jake Reed"
   },
   {
     "id": 34166,
@@ -2336,24 +1792,12 @@
     "name": "Greg Allen"
   },
   {
-    "id": 34189,
-    "name": "Eduard Pinto"
-  },
-  {
-    "id": 34192,
-    "name": "Ivan Castillo"
-  },
-  {
     "id": 34193,
     "name": "Yonathan Mendoza"
   },
   {
     "id": 34194,
     "name": "Jesus Martinez"
-  },
-  {
-    "id": 34195,
-    "name": "Zack Weiss"
   },
   {
     "id": 34197,
@@ -2366,10 +1810,6 @@
   {
     "id": 34206,
     "name": "Ricardo Marcano"
-  },
-  {
-    "id": 34221,
-    "name": "Webster Rivas"
   },
   {
     "id": 34230,
@@ -2392,24 +1832,12 @@
     "name": "Matthew Boyd"
   },
   {
-    "id": 34481,
-    "name": "Jonathan Aro"
-  },
-  {
     "id": 34534,
     "name": "Joey Meneses"
   },
   {
     "id": 34542,
     "name": "Anthony Banda"
-  },
-  {
-    "id": 34653,
-    "name": "Joey Krehbiel"
-  },
-  {
-    "id": 34675,
-    "name": "Javy Guerra"
   },
   {
     "id": 34696,
@@ -2424,16 +1852,8 @@
     "name": "Ben Heller"
   },
   {
-    "id": 34701,
-    "name": "Joshua Fuentes"
-  },
-  {
     "id": 34825,
     "name": "Casey Meisner"
-  },
-  {
-    "id": 34830,
-    "name": "Kyle Barraclough"
   },
   {
     "id": 34834,
@@ -2452,14 +1872,6 @@
     "name": "Michael Fulmer"
   },
   {
-    "id": 34845,
-    "name": "Juan Minaya"
-  },
-  {
-    "id": 34846,
-    "name": "David Paulino"
-  },
-  {
     "id": 34848,
     "name": "Joe Musgrove"
   },
@@ -2472,16 +1884,8 @@
     "name": "Jimmy Cordero"
   },
   {
-    "id": 34853,
-    "name": "J.B. Wendelken"
-  },
-  {
     "id": 34854,
     "name": "JT Chargois"
-  },
-  {
-    "id": 34857,
-    "name": "Randy Rosario"
   },
   {
     "id": 34861,
@@ -2492,16 +1896,8 @@
     "name": "Matt Strahm"
   },
   {
-    "id": 34863,
-    "name": "Alec Mills"
-  },
-  {
     "id": 34868,
     "name": "Jacob Barnes"
-  },
-  {
-    "id": 34871,
-    "name": "Jake Faria"
   },
   {
     "id": 34873,
@@ -2514,10 +1910,6 @@
   {
     "id": 34875,
     "name": "Yohander Mendez"
-  },
-  {
-    "id": 34878,
-    "name": "Willians Astudillo"
   },
   {
     "id": 34886,
@@ -2540,24 +1932,16 @@
     "name": "Carson Fulmer"
   },
   {
-    "id": 34915,
-    "name": "Sam Coonrod"
-  },
-  {
-    "id": 34920,
-    "name": "Felix Pena"
-  },
-  {
     "id": 34923,
     "name": "Taylor Ward"
   },
   {
-    "id": 34927,
-    "name": "James Kaprielian"
-  },
-  {
     "id": 34928,
     "name": "Sam Moll"
+  },
+  {
+    "id": 34930,
+    "name": "Richie Martin"
   },
   {
     "id": 34933,
@@ -2636,10 +2020,6 @@
     "name": "Yadier Alvarez"
   },
   {
-    "id": 34961,
-    "name": "Yusniel Diaz"
-  },
-  {
     "id": 34963,
     "name": "Jonathan Arauz"
   },
@@ -2672,10 +2052,6 @@
     "name": "Tyler Stephenson"
   },
   {
-    "id": 34978,
-    "name": "Adonis Medina"
-  },
-  {
     "id": 34980,
     "name": "Kolby Allard"
   },
@@ -2704,10 +2080,6 @@
     "name": "Phil Bickford"
   },
   {
-    "id": 34990,
-    "name": "Lucius Fox"
-  },
-  {
     "id": 34994,
     "name": "Tyler Jay"
   },
@@ -2716,16 +2088,20 @@
     "name": "Trent Grisham"
   },
   {
-    "id": 34997,
-    "name": "Isan Diaz"
-  },
-  {
     "id": 34998,
     "name": "Nathan Kirby"
   },
   {
+    "id": 34999,
+    "name": "Cody Ponce"
+  },
+  {
     "id": 35002,
     "name": "Vladimir Guerrero Jr."
+  },
+  {
+    "id": 35003,
+    "name": "Jonathan Harris"
   },
   {
     "id": 35004,
@@ -2764,10 +2140,6 @@
     "name": "Jake Bauers"
   },
   {
-    "id": 35014,
-    "name": "Kevin Padlo"
-  },
-  {
     "id": 35017,
     "name": "Junior Fernandez"
   },
@@ -2800,10 +2172,6 @@
     "name": "Austin Smith"
   },
   {
-    "id": 35031,
-    "name": "Andrew Suarez"
-  },
-  {
     "id": 35038,
     "name": "Marten Gasparini"
   },
@@ -2824,20 +2192,12 @@
     "name": "Victor Robles"
   },
   {
-    "id": 35043,
-    "name": "Andrew Stevenson"
-  },
-  {
     "id": 35044,
     "name": "Austin Voth"
   },
   {
     "id": 35046,
     "name": "Beau Burrows"
-  },
-  {
-    "id": 35050,
-    "name": "Guillermo Heredia"
   },
   {
     "id": 35058,
@@ -2850,10 +2210,6 @@
   {
     "id": 35063,
     "name": "Stone Garrett"
-  },
-  {
-    "id": 35065,
-    "name": "Jordan Holloway"
   },
   {
     "id": 35066,
@@ -2896,24 +2252,8 @@
     "name": "Jason Vosler"
   },
   {
-    "id": 35167,
-    "name": "Luis Liberato"
-  },
-  {
-    "id": 35170,
-    "name": "Oscar Mercado"
-  },
-  {
-    "id": 35178,
-    "name": "Victor Reyes"
-  },
-  {
     "id": 35183,
     "name": "Ryan O'Hearn"
-  },
-  {
-    "id": 35184,
-    "name": "Eric Yardley"
   },
   {
     "id": 35185,
@@ -2922,10 +2262,6 @@
   {
     "id": 35188,
     "name": "Abiatal Avelino"
-  },
-  {
-    "id": 35201,
-    "name": "Luke Voit"
   },
   {
     "id": 35222,
@@ -2946,10 +2282,6 @@
   {
     "id": 35246,
     "name": "David Bote"
-  },
-  {
-    "id": 35247,
-    "name": "Andrew Velazquez"
   },
   {
     "id": 35265,
@@ -3064,10 +2396,6 @@
     "name": "Jeffrey Springs"
   },
   {
-    "id": 35431,
-    "name": "Kyle Garlick"
-  },
-  {
     "id": 35432,
     "name": "Jose Cuas"
   },
@@ -3132,20 +2460,8 @@
     "name": "Tim Mayza"
   },
   {
-    "id": 35779,
-    "name": "Tim Locastro"
-  },
-  {
     "id": 35780,
     "name": "Adam Cimber"
-  },
-  {
-    "id": 35783,
-    "name": "Mark Mathias"
-  },
-  {
-    "id": 35797,
-    "name": "Matt Dermody"
   },
   {
     "id": 35831,
@@ -3250,14 +2566,6 @@
   {
     "id": 36041,
     "name": "Albert Abreu"
-  },
-  {
-    "id": 36042,
-    "name": "Jorge Guzman"
-  },
-  {
-    "id": 36045,
-    "name": "Keynan Middleton"
   },
   {
     "id": 36046,
@@ -3372,14 +2680,6 @@
     "name": "Jimmy Herget"
   },
   {
-    "id": 36102,
-    "name": "Michel Baez"
-  },
-  {
-    "id": 36104,
-    "name": "Norge Ruiz"
-  },
-  {
     "id": 36110,
     "name": "Jeff Brigham"
   },
@@ -3388,20 +2688,12 @@
     "name": "Thomas Burrows"
   },
   {
-    "id": 36120,
-    "name": "Victor Arano"
-  },
-  {
     "id": 36131,
     "name": "Aaron Bummer"
   },
   {
     "id": 36133,
     "name": "A.J. Minter"
-  },
-  {
-    "id": 36138,
-    "name": "Henry Ramos"
   },
   {
     "id": 36140,
@@ -3426,10 +2718,6 @@
   {
     "id": 36165,
     "name": "Dennis Ortega"
-  },
-  {
-    "id": 36167,
-    "name": "Ryan Sherriff"
   },
   {
     "id": 36170,
@@ -3468,10 +2756,6 @@
     "name": "Riley Pint"
   },
   {
-    "id": 36184,
-    "name": "Blake Rutherford"
-  },
-  {
     "id": 36185,
     "name": "Ronald Acuna Jr."
   },
@@ -3484,20 +2768,8 @@
     "name": "Franklin Perez"
   },
   {
-    "id": 36188,
-    "name": "Kyle Lewis"
-  },
-  {
     "id": 36192,
     "name": "Ryan Borucki"
-  },
-  {
-    "id": 36194,
-    "name": "Zack Burdi"
-  },
-  {
-    "id": 36195,
-    "name": "Zack Collins"
   },
   {
     "id": 36201,
@@ -3524,10 +2796,6 @@
     "name": "Lane Thomas"
   },
   {
-    "id": 36418,
-    "name": "Jack Mayfield"
-  },
-  {
     "id": 36429,
     "name": "Garrett Cleavinger"
   },
@@ -3538,10 +2806,6 @@
   {
     "id": 36463,
     "name": "Edward Olivares"
-  },
-  {
-    "id": 36467,
-    "name": "Shea Spitzbarth"
   },
   {
     "id": 36474,
@@ -3558,10 +2822,6 @@
   {
     "id": 36488,
     "name": "Randy Arozarena"
-  },
-  {
-    "id": 36490,
-    "name": "Trevor Kelley"
   },
   {
     "id": 36493,
@@ -3586,22 +2846,6 @@
   {
     "id": 36618,
     "name": "Lucas Erceg"
-  },
-  {
-    "id": 36620,
-    "name": "James Naile"
-  },
-  {
-    "id": 36627,
-    "name": "Cody Sedlock"
-  },
-  {
-    "id": 36628,
-    "name": "Jimmy Yacabonis"
-  },
-  {
-    "id": 36629,
-    "name": "Hoy Park"
   },
   {
     "id": 36631,
@@ -3676,16 +2920,8 @@
     "name": "Kelvin Gutierrez"
   },
   {
-    "id": 37004,
-    "name": "Matt Beaty"
-  },
-  {
     "id": 37005,
     "name": "Tim Hill"
-  },
-  {
-    "id": 37223,
-    "name": "Yacksel Rios"
   },
   {
     "id": 37232,
@@ -3718,10 +2954,6 @@
   {
     "id": 37567,
     "name": "Anthony Misiewicz"
-  },
-  {
-    "id": 37580,
-    "name": "Jordan Luplow"
   },
   {
     "id": 37582,
@@ -3776,10 +3008,6 @@
     "name": "Brian Navarreto"
   },
   {
-    "id": 37819,
-    "name": "Anderson Tejeda"
-  },
-  {
     "id": 37820,
     "name": "Charles Leblanc"
   },
@@ -3798,10 +3026,6 @@
   {
     "id": 37919,
     "name": "Seby Zavala"
-  },
-  {
-    "id": 37972,
-    "name": "Tyler Cyr"
   },
   {
     "id": 37974,
@@ -3828,10 +3052,6 @@
     "name": "Nick Anderson"
   },
   {
-    "id": 38104,
-    "name": "Phillips Valdez"
-  },
-  {
     "id": 38106,
     "name": "Nicky Lopez"
   },
@@ -3840,20 +3060,12 @@
     "name": "John Curtiss"
   },
   {
-    "id": 38161,
-    "name": "Jonathan Davis"
-  },
-  {
     "id": 38173,
     "name": "Jordan Montgomery"
   },
   {
     "id": 38190,
     "name": "Nick Hernandez"
-  },
-  {
-    "id": 38199,
-    "name": "Miguel Aguilar"
   },
   {
     "id": 38250,
@@ -3920,10 +3132,6 @@
     "name": "Dakota Hudson"
   },
   {
-    "id": 38681,
-    "name": "Ryan Aguilar"
-  },
-  {
     "id": 38682,
     "name": "Weston Wilson"
   },
@@ -3964,10 +3172,6 @@
     "name": "Mike Ford"
   },
   {
-    "id": 38898,
-    "name": "Jake Fishman"
-  },
-  {
     "id": 38904,
     "name": "Bo Bichette"
   },
@@ -3990,10 +3194,6 @@
   {
     "id": 38994,
     "name": "Alex Call"
-  },
-  {
-    "id": 39009,
-    "name": "Ryan Hendrix"
   },
   {
     "id": 39078,
@@ -4042,14 +3242,6 @@
   {
     "id": 39226,
     "name": "Dylan Carlson"
-  },
-  {
-    "id": 39227,
-    "name": "Brian O'Keefe"
-  },
-  {
-    "id": 39228,
-    "name": "Jacob Lemoine"
   },
   {
     "id": 39251,
@@ -4120,10 +3312,6 @@
     "name": "Tyler Nevin"
   },
   {
-    "id": 39624,
-    "name": "Mario Feliciano"
-  },
-  {
     "id": 39631,
     "name": "Luis Robert Jr."
   },
@@ -4162,10 +3350,6 @@
   {
     "id": 39646,
     "name": "Nate Pearson"
-  },
-  {
-    "id": 39648,
-    "name": "Jeter Downs"
   },
   {
     "id": 39652,
@@ -4224,10 +3408,6 @@
     "name": "Gerson Bautista"
   },
   {
-    "id": 39709,
-    "name": "Thomas Pannone"
-  },
-  {
     "id": 39710,
     "name": "Samad Taylor"
   },
@@ -4248,10 +3428,6 @@
     "name": "Tobias Myers"
   },
   {
-    "id": 39717,
-    "name": "A.J. Alexy"
-  },
-  {
     "id": 39718,
     "name": "Hendrik Clementina"
   },
@@ -4270,10 +3446,6 @@
   {
     "id": 39776,
     "name": "Andres Machado"
-  },
-  {
-    "id": 39798,
-    "name": "Miguel Del Pozo"
   },
   {
     "id": 39799,
@@ -4368,10 +3540,6 @@
     "name": "Richard Lovelady"
   },
   {
-    "id": 39866,
-    "name": "Esteban Quiroz"
-  },
-  {
     "id": 39868,
     "name": "Brandon Leibrandt"
   },
@@ -4382,10 +3550,6 @@
   {
     "id": 39871,
     "name": "Matt Festa"
-  },
-  {
-    "id": 39872,
-    "name": "Brett Kennedy"
   },
   {
     "id": 39875,
@@ -4440,10 +3604,6 @@
     "name": "Alex Faedo"
   },
   {
-    "id": 39903,
-    "name": "Raynel Espinal"
-  },
-  {
     "id": 39904,
     "name": "Nick Solak"
   },
@@ -4486,10 +3646,6 @@
   {
     "id": 39927,
     "name": "Jhon Nunez"
-  },
-  {
-    "id": 39932,
-    "name": "Anthony Castro"
   },
   {
     "id": 39936,
@@ -4588,16 +3744,8 @@
     "name": "Tyler Alexander"
   },
   {
-    "id": 40363,
-    "name": "Riley Smith"
-  },
-  {
     "id": 40364,
     "name": "Colin Poche"
-  },
-  {
-    "id": 40371,
-    "name": "Lorenzo Quintana"
   },
   {
     "id": 40378,
@@ -4614,10 +3762,6 @@
   {
     "id": 40393,
     "name": "Danny Mendick"
-  },
-  {
-    "id": 40412,
-    "name": "Jermaine Palacios"
   },
   {
     "id": 40419,
@@ -4684,10 +3828,6 @@
     "name": "Sandro Fabian"
   },
   {
-    "id": 40477,
-    "name": "Tres Barrera"
-  },
-  {
     "id": 40481,
     "name": "Tirso Ornelas"
   },
@@ -4696,16 +3836,8 @@
     "name": "Brenan Hanifee"
   },
   {
-    "id": 40489,
-    "name": "Jesus Cruz"
-  },
-  {
     "id": 40494,
     "name": "Diego Castillo"
-  },
-  {
-    "id": 40495,
-    "name": "Donny Sands"
   },
   {
     "id": 40496,
@@ -4744,10 +3876,6 @@
     "name": "Cameron Bishop"
   },
   {
-    "id": 40532,
-    "name": "Jared Oliva"
-  },
-  {
     "id": 40533,
     "name": "Mike Brosseau"
   },
@@ -4758,10 +3886,6 @@
   {
     "id": 40543,
     "name": "Mike Baumann"
-  },
-  {
-    "id": 40547,
-    "name": "Cody Thomas"
   },
   {
     "id": 40557,
@@ -4796,28 +3920,12 @@
     "name": "Dylan Moore"
   },
   {
-    "id": 40597,
-    "name": "Rylan Bannon"
-  },
-  {
     "id": 40608,
     "name": "Steven Fuentes"
   },
   {
     "id": 40610,
     "name": "Ramon Urias"
-  },
-  {
-    "id": 40611,
-    "name": "Kramer Robertson"
-  },
-  {
-    "id": 40614,
-    "name": "Caleb Hamilton"
-  },
-  {
-    "id": 40615,
-    "name": "Jake Walsh"
   },
   {
     "id": 40618,
@@ -4888,10 +3996,6 @@
     "name": "Jake Meyers"
   },
   {
-    "id": 40730,
-    "name": "Jack Larsen"
-  },
-  {
     "id": 40754,
     "name": "Abraham Toro"
   },
@@ -4912,10 +4016,6 @@
     "name": "Pavin Smith"
   },
   {
-    "id": 40769,
-    "name": "Drew Ellis"
-  },
-  {
     "id": 40787,
     "name": "Bryan De La Cruz"
   },
@@ -4926,10 +4026,6 @@
   {
     "id": 40803,
     "name": "Brandon Marsh"
-  },
-  {
-    "id": 40806,
-    "name": "Phoenix Sanders"
   },
   {
     "id": 40810,
@@ -4944,16 +4040,8 @@
     "name": "Rafael Marchan"
   },
   {
-    "id": 40822,
-    "name": "Yadiel Hernandez"
-  },
-  {
     "id": 40835,
     "name": "Oswaldo Cabrera"
-  },
-  {
-    "id": 40837,
-    "name": "Josh Lester"
   },
   {
     "id": 40840,
@@ -4996,10 +4084,6 @@
     "name": "Ben Rortvedt"
   },
   {
-    "id": 40870,
-    "name": "Cody Stashak"
-  },
-  {
     "id": 40876,
     "name": "Sam Delaplane"
   },
@@ -5010,10 +4094,6 @@
   {
     "id": 40884,
     "name": "Bryan Baker"
-  },
-  {
-    "id": 40889,
-    "name": "Darick Hall"
   },
   {
     "id": 40896,
@@ -5036,10 +4116,6 @@
     "name": "Shane Bieber"
   },
   {
-    "id": 40913,
-    "name": "Dereck Rodriguez"
-  },
-  {
     "id": 40915,
     "name": "Forrest Whitley"
   },
@@ -5050,10 +4126,6 @@
   {
     "id": 40917,
     "name": "Adrian Morejon"
-  },
-  {
-    "id": 40918,
-    "name": "Jon Duplantier"
   },
   {
     "id": 40919,
@@ -5180,10 +4252,6 @@
     "name": "Greifer Andrade"
   },
   {
-    "id": 40957,
-    "name": "Wil Crowe"
-  },
-  {
     "id": 40958,
     "name": "Tyler Freeman"
   },
@@ -5256,10 +4324,6 @@
     "name": "Melvin Adon"
   },
   {
-    "id": 40980,
-    "name": "Taylor Hearn"
-  },
-  {
     "id": 40981,
     "name": "Jose Suarez"
   },
@@ -5292,20 +4356,12 @@
     "name": "Jose Albertos"
   },
   {
-    "id": 40992,
-    "name": "Justin Dunn"
-  },
-  {
     "id": 40993,
     "name": "Gabriel Maciel"
   },
   {
     "id": 40994,
     "name": "Garrett Cave"
-  },
-  {
-    "id": 40996,
-    "name": "Michael Rucker"
   },
   {
     "id": 40998,
@@ -5326,10 +4382,6 @@
   {
     "id": 41002,
     "name": "Danny Diaz"
-  },
-  {
-    "id": 41003,
-    "name": "Trevor Stephan"
   },
   {
     "id": 41004,
@@ -5476,24 +4528,12 @@
     "name": "Luis De Los Santos"
   },
   {
-    "id": 41057,
-    "name": "Francisco Morales"
-  },
-  {
     "id": 41061,
     "name": "Genesis Cabrera"
   },
   {
     "id": 41062,
     "name": "Tomas Alastre"
-  },
-  {
-    "id": 41063,
-    "name": "Dermis Garcia"
-  },
-  {
-    "id": 41064,
-    "name": "Aaron Whitefield"
   },
   {
     "id": 41065,
@@ -5506,10 +4546,6 @@
   {
     "id": 41067,
     "name": "Jose Sanchez"
-  },
-  {
-    "id": 41068,
-    "name": "Cal Mitchell"
   },
   {
     "id": 41069,
@@ -5532,20 +4568,8 @@
     "name": "Freddy Tarnok"
   },
   {
-    "id": 41074,
-    "name": "Gilberto Celestino"
-  },
-  {
-    "id": 41075,
-    "name": "Hagen Danner"
-  },
-  {
     "id": 41076,
     "name": "Drew Waters"
-  },
-  {
-    "id": 41077,
-    "name": "Sherten Apostel"
   },
   {
     "id": 41078,
@@ -5562,10 +4586,6 @@
   {
     "id": 41081,
     "name": "Resly Linares"
-  },
-  {
-    "id": 41082,
-    "name": "Adam Haseley"
   },
   {
     "id": 41085,
@@ -5608,16 +4628,8 @@
     "name": "Jhoan Duran"
   },
   {
-    "id": 41113,
-    "name": "Kyle Dowdy"
-  },
-  {
     "id": 41114,
     "name": "Tommy Eveld"
-  },
-  {
-    "id": 41115,
-    "name": "Jhon Romero"
   },
   {
     "id": 41117,
@@ -5628,10 +4640,6 @@
     "name": "Bruce Zimmermann"
   },
   {
-    "id": 41120,
-    "name": "Devin Smeltzer"
-  },
-  {
     "id": 41123,
     "name": "Alexander Ovalles"
   },
@@ -5640,12 +4648,12 @@
     "name": "Felix Paulino"
   },
   {
-    "id": 41127,
-    "name": "Ian Hamilton"
+    "id": 41125,
+    "name": "Drew Anderson"
   },
   {
-    "id": 41129,
-    "name": "Andrew Vasquez"
+    "id": 41127,
+    "name": "Ian Hamilton"
   },
   {
     "id": 41134,
@@ -5678,14 +4686,6 @@
   {
     "id": 41150,
     "name": "Jarred Kelenic"
-  },
-  {
-    "id": 41151,
-    "name": "Travis Bergen"
-  },
-  {
-    "id": 41156,
-    "name": "Cristofer Ogando"
   },
   {
     "id": 41157,
@@ -5780,10 +4780,6 @@
     "name": "Santiago Florez"
   },
   {
-    "id": 41190,
-    "name": "Jordan Balazovic"
-  },
-  {
     "id": 41191,
     "name": "Connor Scott"
   },
@@ -5832,10 +4828,6 @@
     "name": "Sean Hjelle"
   },
   {
-    "id": 41207,
-    "name": "Luis Oviedo"
-  },
-  {
     "id": 41208,
     "name": "Bryan Abreu"
   },
@@ -5880,10 +4872,6 @@
     "name": "Parker Meadows"
   },
   {
-    "id": 41224,
-    "name": "Seth Beer"
-  },
-  {
     "id": 41225,
     "name": "Sam Hentges"
   },
@@ -5902,10 +4890,6 @@
   {
     "id": 41230,
     "name": "Jameson Hannah"
-  },
-  {
-    "id": 41232,
-    "name": "Erich Uelmen"
   },
   {
     "id": 41233,
@@ -5932,10 +4916,6 @@
     "name": "Michael Grove"
   },
   {
-    "id": 41243,
-    "name": "Tommy Doyle"
-  },
-  {
     "id": 41244,
     "name": "Owen White"
   },
@@ -5946,10 +4926,6 @@
   {
     "id": 41247,
     "name": "Tyler Phillips"
-  },
-  {
-    "id": 41251,
-    "name": "Luis Barrera"
   },
   {
     "id": 41252,
@@ -6048,10 +5024,6 @@
     "name": "Cal Raleigh"
   },
   {
-    "id": 41293,
-    "name": "Brennen Davis"
-  },
-  {
     "id": 41294,
     "name": "Freddy Valdez"
   },
@@ -6140,10 +5112,6 @@
     "name": "Xavier Edwards"
   },
   {
-    "id": 41328,
-    "name": "Cory Abbott"
-  },
-  {
     "id": 41329,
     "name": "Konnor Pilkington"
   },
@@ -6224,10 +5192,6 @@
     "name": "Hogan Harris"
   },
   {
-    "id": 41366,
-    "name": "Jake Wong"
-  },
-  {
     "id": 41367,
     "name": "Connor Seabold"
   },
@@ -6256,10 +5220,6 @@
     "name": "Brewer Hicklen"
   },
   {
-    "id": 41379,
-    "name": "Israel Pineda"
-  },
-  {
     "id": 41380,
     "name": "Eduarqui Fernandez"
   },
@@ -6282,10 +5242,6 @@
   {
     "id": 41388,
     "name": "Mariel Bautista"
-  },
-  {
-    "id": 41389,
-    "name": "Jimmy Lambert"
   },
   {
     "id": 41392,
@@ -6312,10 +5268,6 @@
     "name": "Ronny Brito"
   },
   {
-    "id": 41399,
-    "name": "Peter Solomon"
-  },
-  {
     "id": 41400,
     "name": "Carlos Rodriguez"
   },
@@ -6336,10 +5288,6 @@
     "name": "Cody Bolton"
   },
   {
-    "id": 41409,
-    "name": "Glenn Otto"
-  },
-  {
     "id": 41414,
     "name": "Sandy Gaston"
   },
@@ -6358,14 +5306,6 @@
   {
     "id": 41427,
     "name": "Daniel Woodrow"
-  },
-  {
-    "id": 41430,
-    "name": "Akeem Bostick"
-  },
-  {
-    "id": 41431,
-    "name": "Ryan Hartman"
   },
   {
     "id": 41432,
@@ -6408,10 +5348,6 @@
     "name": "Miguel Sanchez"
   },
   {
-    "id": 41451,
-    "name": "Nick Margevicius"
-  },
-  {
     "id": 41452,
     "name": "Jesse Scholtens"
   },
@@ -6450,10 +5386,6 @@
   {
     "id": 41485,
     "name": "Greg Weissert"
-  },
-  {
-    "id": 41488,
-    "name": "Luke Barker"
   },
   {
     "id": 41499,
@@ -6500,10 +5432,6 @@
     "name": "Corey Julks"
   },
   {
-    "id": 41527,
-    "name": "Ralph Garza Jr."
-  },
-  {
     "id": 41528,
     "name": "Anderson Severino"
   },
@@ -6544,20 +5472,12 @@
     "name": "Clayton Andrews"
   },
   {
-    "id": 41560,
-    "name": "Zach Muckenhirn"
-  },
-  {
     "id": 41562,
     "name": "Kevin Smith"
   },
   {
     "id": 41564,
     "name": "Mauricio Llovera"
-  },
-  {
-    "id": 41567,
-    "name": "Spenser Watkins"
   },
   {
     "id": 41569,
@@ -6580,10 +5500,6 @@
     "name": "Ryan Jeffers"
   },
   {
-    "id": 41591,
-    "name": "Carlos Andres Cortes"
-  },
-  {
     "id": 41595,
     "name": "Carlos Cortes"
   },
@@ -6602,10 +5518,6 @@
   {
     "id": 41612,
     "name": "Tyler Ferguson"
-  },
-  {
-    "id": 41616,
-    "name": "Tanner Tully"
   },
   {
     "id": 41621,
@@ -6642,10 +5554,6 @@
   {
     "id": 41652,
     "name": "Tyler Zombro"
-  },
-  {
-    "id": 41665,
-    "name": "Curtis Terry"
   },
   {
     "id": 41672,
@@ -6696,20 +5604,12 @@
     "name": "Joe Barlow"
   },
   {
-    "id": 41742,
-    "name": "Demarcus Evans"
-  },
-  {
     "id": 41743,
     "name": "Emmanuel Clase"
   },
   {
     "id": 41745,
     "name": "Ricardo Genoves"
-  },
-  {
-    "id": 41762,
-    "name": "Carlos Sanabria"
   },
   {
     "id": 41763,
@@ -6748,10 +5648,6 @@
     "name": "Kenny Rosenberg"
   },
   {
-    "id": 41808,
-    "name": "Ford Proctor"
-  },
-  {
     "id": 41810,
     "name": "Easton McGee"
   },
@@ -6780,20 +5676,12 @@
     "name": "Cal Stevenson"
   },
   {
-    "id": 41868,
-    "name": "Chandler Seagle"
-  },
-  {
     "id": 41874,
     "name": "Dauri Moreta"
   },
   {
     "id": 41877,
     "name": "Ibandel Euclides Isabel"
-  },
-  {
-    "id": 41883,
-    "name": "Alejo Lopez"
   },
   {
     "id": 41889,
@@ -6804,20 +5692,12 @@
     "name": "Yohan Ramirez"
   },
   {
-    "id": 41897,
-    "name": "Irving Lopez"
-  },
-  {
     "id": 41900,
     "name": "Jojanse Torres"
   },
   {
     "id": 41907,
     "name": "Cesar Salazar"
-  },
-  {
-    "id": 41911,
-    "name": "Mark Kolozsvary"
   },
   {
     "id": 41917,
@@ -7060,28 +5940,8 @@
     "name": "Misael Tamarez"
   },
   {
-    "id": 42316,
-    "name": "Aaron Fletcher"
-  },
-  {
     "id": 42340,
     "name": "Victor Gonzalez"
-  },
-  {
-    "id": 42342,
-    "name": "Blake Taylor"
-  },
-  {
-    "id": 42351,
-    "name": "Nivaldo Rodriguez"
-  },
-  {
-    "id": 42352,
-    "name": "Ashton Goudeau"
-  },
-  {
-    "id": 42353,
-    "name": "Antonio Santos"
   },
   {
     "id": 42355,
@@ -7130,14 +5990,6 @@
   {
     "id": 42380,
     "name": "Dany Jimenez"
-  },
-  {
-    "id": 42381,
-    "name": "Yoshi Tsutsugo"
-  },
-  {
-    "id": 42390,
-    "name": "Shogo Akiyama"
   },
   {
     "id": 42394,
@@ -7338,10 +6190,6 @@
   {
     "id": 42453,
     "name": "Miguel Vargas"
-  },
-  {
-    "id": 42454,
-    "name": "Canaan Smith-Njigba"
   },
   {
     "id": 42455,
@@ -7564,10 +6412,6 @@
     "name": "Shawn Dubin"
   },
   {
-    "id": 42541,
-    "name": "Ethan Small"
-  },
-  {
     "id": 42542,
     "name": "Seth Johnson"
   },
@@ -7648,14 +6492,6 @@
     "name": "Kevin Smith"
   },
   {
-    "id": 42600,
-    "name": "Charlie Barnes"
-  },
-  {
-    "id": 42603,
-    "name": "Edwar Colina"
-  },
-  {
     "id": 42604,
     "name": "Griffin Jax"
   },
@@ -7712,10 +6548,6 @@
     "name": "Penn Murfee"
   },
   {
-    "id": 42632,
-    "name": "Mark Contreras"
-  },
-  {
     "id": 42637,
     "name": "Lucas Ritter"
   },
@@ -7746,10 +6578,6 @@
   {
     "id": 42673,
     "name": "Juan Gamez"
-  },
-  {
-    "id": 42674,
-    "name": "Bryan Bryan Brickhouse"
   },
   {
     "id": 42681,
@@ -7788,10 +6616,6 @@
     "name": "Kerry Carpenter"
   },
   {
-    "id": 42721,
-    "name": "Mickey McDonald"
-  },
-  {
     "id": 42735,
     "name": "Justin Bruihl"
   },
@@ -7820,10 +6644,6 @@
     "name": "Carter Bins"
   },
   {
-    "id": 42767,
-    "name": "Matt Swarmer"
-  },
-  {
     "id": 42776,
     "name": "Thomas Dillard"
   },
@@ -7834,10 +6654,6 @@
   {
     "id": 42796,
     "name": "Kyle Stowers"
-  },
-  {
-    "id": 42798,
-    "name": "Angel De Jesus"
   },
   {
     "id": 42801,
@@ -7916,10 +6732,6 @@
     "name": "Anthony Mulrine"
   },
   {
-    "id": 42873,
-    "name": "Nate Fisher"
-  },
-  {
     "id": 42875,
     "name": "Austin Shenton"
   },
@@ -7946,10 +6758,6 @@
   {
     "id": 42901,
     "name": "Kyle McCann"
-  },
-  {
-    "id": 42919,
-    "name": "Kirk McCarty"
   },
   {
     "id": 42923,
@@ -8092,10 +6900,6 @@
     "name": "Dasan Brown"
   },
   {
-    "id": 43324,
-    "name": "CJ Alexander"
-  },
-  {
     "id": 43393,
     "name": "Cam Devanney"
   },
@@ -8112,16 +6916,8 @@
     "name": "Cam Booser"
   },
   {
-    "id": 2952621,
-    "name": "Hirokazu Sawamura"
-  },
-  {
     "id": 3033851,
     "name": "Justin Garza"
-  },
-  {
-    "id": 3105825,
-    "name": "Alec Bettinger"
   },
   {
     "id": 3107510,
@@ -8176,16 +6972,8 @@
     "name": "Adam Scott"
   },
   {
-    "id": 3728070,
-    "name": "Caleb Baragar"
-  },
-  {
     "id": 3896017,
     "name": "Sean Guenther"
-  },
-  {
-    "id": 3896101,
-    "name": "Nick Allgeyer"
   },
   {
     "id": 3898501,
@@ -8250,10 +7038,6 @@
   {
     "id": 3965044,
     "name": "Reiss Knehr"
-  },
-  {
-    "id": 3968687,
-    "name": "Jeff Lindgren"
   },
   {
     "id": 3973766,
@@ -8338,10 +7122,6 @@
   {
     "id": 4081367,
     "name": "Will Ethridge"
-  },
-  {
-    "id": 4081396,
-    "name": "Evan Lee"
   },
   {
     "id": 4081400,
@@ -8488,10 +7268,6 @@
     "name": "Ken Waldichuk"
   },
   {
-    "id": 4197726,
-    "name": "McKinley Moore"
-  },
-  {
     "id": 4197740,
     "name": "Matt Canterino"
   },
@@ -8544,10 +7320,6 @@
     "name": "Noah Murdock"
   },
   {
-    "id": 4228383,
-    "name": "Karl Kauffmann"
-  },
-  {
     "id": 4228397,
     "name": "Colin Peluse"
   },
@@ -8590,10 +7362,6 @@
   {
     "id": 4297749,
     "name": "Bryce Bonnin"
-  },
-  {
-    "id": 4297753,
-    "name": "Casey Martin"
   },
   {
     "id": 4297758,
@@ -8652,20 +7420,8 @@
     "name": "Austin Martin"
   },
   {
-    "id": 4298000,
-    "name": "Tyler Brown"
-  },
-  {
-    "id": 4298003,
-    "name": "Anthony Servideo"
-  },
-  {
     "id": 4298015,
     "name": "Tyler Keenan"
-  },
-  {
-    "id": 4298032,
-    "name": "Daniel Cabrera"
   },
   {
     "id": 4298087,
@@ -8674,10 +7430,6 @@
   {
     "id": 4298095,
     "name": "Niko Kavadas"
-  },
-  {
-    "id": 4298177,
-    "name": "Ian Bedell"
   },
   {
     "id": 4298327,
@@ -8740,10 +7492,6 @@
     "name": "Andrew Alvarez"
   },
   {
-    "id": 4300678,
-    "name": "Taylor Dollard"
-  },
-  {
     "id": 4300831,
     "name": "Brendan Cellucci"
   },
@@ -8758,10 +7506,6 @@
   {
     "id": 4301159,
     "name": "Eric Yang"
-  },
-  {
-    "id": 4301941,
-    "name": "Garrett Hill"
   },
   {
     "id": 4301949,
@@ -8798,14 +7542,6 @@
   {
     "id": 4308037,
     "name": "Cade Cavalli"
-  },
-  {
-    "id": 4308045,
-    "name": "Levi Prater"
-  },
-  {
-    "id": 4309668,
-    "name": "Hayden Cantrelle"
   },
   {
     "id": 4311413,
@@ -8848,32 +7584,12 @@
     "name": "Russell Smith"
   },
   {
-    "id": 4315203,
-    "name": "Shane Drohan"
-  },
-  {
     "id": 4315215,
     "name": "C.J. Van Eyk"
   },
   {
-    "id": 4315279,
-    "name": "Michael Guldberg"
-  },
-  {
-    "id": 4315284,
-    "name": "Baron Radcliff"
-  },
-  {
     "id": 4315289,
     "name": "Luke Waddell"
-  },
-  {
-    "id": 4321454,
-    "name": "Dane Acker"
-  },
-  {
-    "id": 4321468,
-    "name": "Trei Cruz"
   },
   {
     "id": 4321820,
@@ -8968,10 +7684,6 @@
     "name": "Evan Justice"
   },
   {
-    "id": 4345853,
-    "name": "Nick Swiney"
-  },
-  {
     "id": 4345879,
     "name": "James Glowenke"
   },
@@ -8996,8 +7708,8 @@
     "name": "Alek Jacob"
   },
   {
-    "id": 4346264,
-    "name": "Zachary McCambley"
+    "id": 4346317,
+    "name": "Braiden Ward"
   },
   {
     "id": 4346328,
@@ -9046,6 +7758,10 @@
   {
     "id": 4413990,
     "name": "Chase Silseth"
+  },
+  {
+    "id": 4413997,
+    "name": "Eric Cerantola"
   },
   {
     "id": 4414002,
@@ -9356,16 +8072,8 @@
     "name": "JT Schwartz"
   },
   {
-    "id": 4423327,
-    "name": "Jack Blomgren"
-  },
-  {
     "id": 4423332,
     "name": "Jeff Criswell"
-  },
-  {
-    "id": 4423335,
-    "name": "Jesse Franklin V"
   },
   {
     "id": 4423336,
@@ -9398,14 +8106,6 @@
   {
     "id": 4424246,
     "name": "Aaron Sabato"
-  },
-  {
-    "id": 4424263,
-    "name": "R.J. Dabovich"
-  },
-  {
-    "id": 4424269,
-    "name": "Trevor Hauver"
   },
   {
     "id": 4424276,
@@ -9442,10 +8142,6 @@
   {
     "id": 4424742,
     "name": "Brooks Baldwin"
-  },
-  {
-    "id": 4424820,
-    "name": "Zavier Warren"
   },
   {
     "id": 4424862,
@@ -9652,10 +8348,6 @@
     "name": "Jacob Melton"
   },
   {
-    "id": 4635667,
-    "name": "Patrick Murphy"
-  },
-  {
     "id": 4636166,
     "name": "Kaden Polcovich"
   },
@@ -9694,10 +8386,6 @@
   {
     "id": 4666100,
     "name": "Zach Neto"
-  },
-  {
-    "id": 4669421,
-    "name": "Carson Taylor"
   },
   {
     "id": 4669423,
@@ -9756,6 +8444,10 @@
     "name": "Masyn Winn"
   },
   {
+    "id": 4683366,
+    "name": "Sterlin Thompson"
+  },
+  {
     "id": 4683367,
     "name": "Enrique Bradfield Jr."
   },
@@ -9766,10 +8458,6 @@
   {
     "id": 4683371,
     "name": "Coby Mayo"
-  },
-  {
-    "id": 4683372,
-    "name": "Ben Hernandez"
   },
   {
     "id": 4683374,
@@ -9796,20 +8484,8 @@
     "name": "Jackson Miller"
   },
   {
-    "id": 4683381,
-    "name": "Nick Garcia"
-  },
-  {
-    "id": 4683383,
-    "name": "David Calabrese"
-  },
-  {
     "id": 4683384,
     "name": "Colt Keith"
-  },
-  {
-    "id": 4683389,
-    "name": "Tekoah Roby"
   },
   {
     "id": 4683392,
@@ -9912,10 +8588,6 @@
     "name": "Jose Corniell"
   },
   {
-    "id": 4711414,
-    "name": "Kohei Arihara"
-  },
-  {
     "id": 4712767,
     "name": "Endy Rodriguez"
   },
@@ -9926,10 +8598,6 @@
   {
     "id": 4713651,
     "name": "Chris Muller"
-  },
-  {
-    "id": 4713652,
-    "name": "Tommy Romero"
   },
   {
     "id": 4717802,
@@ -10144,10 +8812,6 @@
     "name": "Ryan Zeferjahn"
   },
   {
-    "id": 4722117,
-    "name": "William Woods"
-  },
-  {
     "id": 4722349,
     "name": "Daiveyon Whittle"
   },
@@ -10226,10 +8890,6 @@
   {
     "id": 4722877,
     "name": "Jerming Rosario"
-  },
-  {
-    "id": 4722878,
-    "name": "Luis Rodriguez"
   },
   {
     "id": 4722879,
@@ -10426,10 +9086,6 @@
   {
     "id": 4722960,
     "name": "Daysbel Hernandez"
-  },
-  {
-    "id": 4722961,
-    "name": "Austin Hendrick"
   },
   {
     "id": 4722962,
@@ -10652,6 +9308,10 @@
     "name": "Reggie Crawford"
   },
   {
+    "id": 4867665,
+    "name": "Ben Cowles"
+  },
+  {
     "id": 4867667,
     "name": "Matt Shaw"
   },
@@ -10670,6 +9330,10 @@
   {
     "id": 4872587,
     "name": "Yoshinobu Yamamoto"
+  },
+  {
+    "id": 4872595,
+    "name": "Munetaka Murakami"
   },
   {
     "id": 4872598,
@@ -10776,10 +9440,6 @@
     "name": "Francisco Perez"
   },
   {
-    "id": 4881374,
-    "name": "Nick Snyder"
-  },
-  {
     "id": 4881978,
     "name": "Elvis Peguero"
   },
@@ -10794,10 +9454,6 @@
   {
     "id": 4883501,
     "name": "Kyle Tyler"
-  },
-  {
-    "id": 4888739,
-    "name": "Brandyn Sittinger"
   },
   {
     "id": 4894467,
@@ -10892,10 +9548,6 @@
     "name": "Yaramil Hiraldo"
   },
   {
-    "id": 4917628,
-    "name": "A.J. Vukovich"
-  },
-  {
     "id": 4917629,
     "name": "Jacob Steinmetz"
   },
@@ -10922,10 +9574,6 @@
   {
     "id": 4917640,
     "name": "AJ Smith-Shawver"
-  },
-  {
-    "id": 4917643,
-    "name": "Drew Rom"
   },
   {
     "id": 4917644,
@@ -11014,10 +9662,6 @@
   {
     "id": 4917765,
     "name": "Drew Romo"
-  },
-  {
-    "id": 4917776,
-    "name": "Jared Kelley"
   },
   {
     "id": 4917777,
@@ -11160,10 +9804,6 @@
     "name": "Jose Bonilla"
   },
   {
-    "id": 4917830,
-    "name": "Werner Blakely"
-  },
-  {
     "id": 4917831,
     "name": "Peter Heubeck"
   },
@@ -11194,10 +9834,6 @@
   {
     "id": 4917849,
     "name": "Victor Mesa Jr."
-  },
-  {
-    "id": 4917850,
-    "name": "Dax Fulton"
   },
   {
     "id": 4917851,
@@ -11282,14 +9918,6 @@
   {
     "id": 4917889,
     "name": "Daylen Lile"
-  },
-  {
-    "id": 4917890,
-    "name": "Kala'i Rosario"
-  },
-  {
-    "id": 4917891,
-    "name": "Samuel Infante"
   },
   {
     "id": 4917892,
@@ -11404,6 +10032,10 @@
     "name": "Jared Jones"
   },
   {
+    "id": 4918157,
+    "name": "Adam Macko"
+  },
+  {
     "id": 4918158,
     "name": "Alberto Rodriguez"
   },
@@ -11418,10 +10050,6 @@
   {
     "id": 4918161,
     "name": "Milkar Perez"
-  },
-  {
-    "id": 4918162,
-    "name": "Levi Stoudt"
   },
   {
     "id": 4918163,
@@ -11592,6 +10220,10 @@
     "name": "Anthony Rodriguez"
   },
   {
+    "id": 4923349,
+    "name": "Carson DeMartini"
+  },
+  {
     "id": 4924097,
     "name": "Jonathon Long"
   },
@@ -11642,6 +10274,10 @@
   {
     "id": 4935268,
     "name": "Kaelen Culpepper"
+  },
+  {
+    "id": 4935278,
+    "name": "Tyson Neighbors"
   },
   {
     "id": 4941056,
@@ -11820,10 +10456,6 @@
     "name": "Chase Shugart"
   },
   {
-    "id": 4990453,
-    "name": "Clay Helvey"
-  },
-  {
     "id": 4990459,
     "name": "Tom Cosgrove"
   },
@@ -11880,10 +10512,6 @@
     "name": "Jose Lopez"
   },
   {
-    "id": 4993492,
-    "name": "Cole Waites"
-  },
-  {
     "id": 4995352,
     "name": "Christian Cairo"
   },
@@ -11906,10 +10534,6 @@
   {
     "id": 4997181,
     "name": "Davis Schneider"
-  },
-  {
-    "id": 4997189,
-    "name": "Bubby Rossman"
   },
   {
     "id": 4997589,
@@ -12052,6 +10676,10 @@
     "name": "Luis Curvelo"
   },
   {
+    "id": 5015255,
+    "name": "Jesus Rodriguez"
+  },
+  {
     "id": 5015727,
     "name": "Luis Contreras"
   },
@@ -12102,6 +10730,10 @@
   {
     "id": 5061202,
     "name": "Adam Mazur"
+  },
+  {
+    "id": 5067321,
+    "name": "Brycen Mautz"
   },
   {
     "id": 5073992,
@@ -12176,6 +10808,10 @@
     "name": "Noah Schultz"
   },
   {
+    "id": 5080756,
+    "name": "Henry Bolte"
+  },
+  {
     "id": 5080758,
     "name": "Malcolm Moore"
   },
@@ -12202,6 +10838,10 @@
   {
     "id": 5080779,
     "name": "Xavier Isaac"
+  },
+  {
+    "id": 5080781,
+    "name": "Karson Milbrandt"
   },
   {
     "id": 5084716,
@@ -12314,6 +10954,10 @@
   {
     "id": 5123754,
     "name": "Jose Cruz"
+  },
+  {
+    "id": 5123768,
+    "name": "Mitch Bratt"
   },
   {
     "id": 5123999,
@@ -12492,12 +11136,20 @@
     "name": "Liam Doyle"
   },
   {
+    "id": 5130535,
+    "name": "Payton Eeles"
+  },
+  {
     "id": 5131708,
     "name": "Chad Patrick"
   },
   {
     "id": 5131743,
     "name": "Rafael Flores"
+  },
+  {
+    "id": 5131747,
+    "name": "Daison Acosta"
   },
   {
     "id": 5131856,
@@ -12556,6 +11208,14 @@
     "name": "Chase Hampton"
   },
   {
+    "id": 5132247,
+    "name": "Domingo Gonzalez"
+  },
+  {
+    "id": 5132501,
+    "name": "Tanner Thach"
+  },
+  {
     "id": 5132624,
     "name": "Osvaldo Bido"
   },
@@ -12608,6 +11268,10 @@
     "name": "Shota Imanaga"
   },
   {
+    "id": 5134636,
+    "name": "Kazuma Okamoto"
+  },
+  {
     "id": 5134638,
     "name": "Roki Sasaki"
   },
@@ -12618,6 +11282,14 @@
   {
     "id": 5135498,
     "name": "Ryan Miller"
+  },
+  {
+    "id": 5135839,
+    "name": "Khal Stephen"
+  },
+  {
+    "id": 5135856,
+    "name": "Jack Gurevitch"
   },
   {
     "id": 5135928,
@@ -12720,6 +11392,10 @@
     "name": "Tyler Bremner"
   },
   {
+    "id": 5140487,
+    "name": "Mitch Jebb"
+  },
+  {
     "id": 5140499,
     "name": "Brock Vradenburg"
   },
@@ -12734,6 +11410,10 @@
   {
     "id": 5140852,
     "name": "Brendan Summerhill"
+  },
+  {
+    "id": 5143560,
+    "name": "Bryce Mayer"
   },
   {
     "id": 5148963,
@@ -12802,6 +11482,10 @@
   {
     "id": 5149082,
     "name": "Travis Sykora"
+  },
+  {
+    "id": 5149086,
+    "name": "George Wolkow"
   },
   {
     "id": 5149089,
@@ -13176,6 +11860,10 @@
     "name": "Jonatan Bernal"
   },
   {
+    "id": 5194705,
+    "name": "Alexander Alberto"
+  },
+  {
     "id": 5195196,
     "name": "Samuel Hernandez"
   },
@@ -13404,6 +12092,10 @@
     "name": "Emilio Sanchez"
   },
   {
+    "id": 5196247,
+    "name": "Alex Hoppe"
+  },
+  {
     "id": 5196249,
     "name": "Ryan Bergert"
   },
@@ -13524,6 +12216,10 @@
     "name": "Brandyn Garcia"
   },
   {
+    "id": 5202898,
+    "name": "Joshua Grosz"
+  },
+  {
     "id": 5202976,
     "name": "Eduarniel Nunez"
   },
@@ -13536,6 +12232,14 @@
     "name": "Tyler Owens"
   },
   {
+    "id": 5204200,
+    "name": "Henry Lalane"
+  },
+  {
+    "id": 5204210,
+    "name": "Francis Pena"
+  },
+  {
     "id": 5204400,
     "name": "Seth Halvorsen"
   },
@@ -13544,8 +12248,8 @@
     "name": "Zyhir Hope"
   },
   {
-    "id": 5204653,
-    "name": "Robert Seymour"
+    "id": 5205472,
+    "name": "Jancel Villarroel"
   },
   {
     "id": 5205643,
@@ -13554,6 +12258,10 @@
   {
     "id": 5205673,
     "name": "RJ Schreck"
+  },
+  {
+    "id": 5205707,
+    "name": "Austin Charles"
   },
   {
     "id": 5205764,
@@ -13664,6 +12372,14 @@
     "name": "Winston Santos"
   },
   {
+    "id": 5255103,
+    "name": "Henry Baez"
+  },
+  {
+    "id": 5259069,
+    "name": "Angel Bastardo"
+  },
+  {
     "id": 5259072,
     "name": "Eiberson Castellano"
   },
@@ -13732,16 +12448,36 @@
     "name": "Cade Gibson"
   },
   {
+    "id": 5273778,
+    "name": "Alcides Hernandez"
+  },
+  {
     "id": 5273851,
     "name": "Mitch Farris"
+  },
+  {
+    "id": 5274874,
+    "name": "Lucas Braun"
+  },
+  {
+    "id": 5276075,
+    "name": "Helder Rosario"
   },
   {
     "id": 5276362,
     "name": "Ethan Conrad"
   },
   {
+    "id": 5278889,
+    "name": "Ryan Wideman"
+  },
+  {
     "id": 5282180,
     "name": "Andrew Salas"
+  },
+  {
+    "id": 5282794,
+    "name": "Nick Dumesnil"
   },
   {
     "id": 5289250,
@@ -13840,6 +12576,18 @@
     "name": "Troy Melton"
   },
   {
+    "id": 5295855,
+    "name": "Ronny Cruz"
+  },
+  {
+    "id": 5295857,
+    "name": "Adam Serwinowski"
+  },
+  {
+    "id": 5296012,
+    "name": "Kendry Rojas"
+  },
+  {
     "id": 5296638,
     "name": "Edward Florentino"
   },
@@ -13854,5 +12602,105 @@
   {
     "id": 5310960,
     "name": "Dylan Ross"
+  },
+  {
+    "id": 5329585,
+    "name": "Sung-Mun Song"
+  },
+  {
+    "id": 5330833,
+    "name": "Tatsuya Imai"
+  },
+  {
+    "id": 5332124,
+    "name": "Jose Franco"
+  },
+  {
+    "id": 5332363,
+    "name": "Jase Mitchell"
+  },
+  {
+    "id": 5332364,
+    "name": "Luis Valdez"
+  },
+  {
+    "id": 5332365,
+    "name": "Truitt Madonna"
+  },
+  {
+    "id": 5332366,
+    "name": "Yordanny Monegro"
+  },
+  {
+    "id": 5332367,
+    "name": "Yohemy Nolasco"
+  },
+  {
+    "id": 5332448,
+    "name": "Yorman Gomez"
+  },
+  {
+    "id": 5332622,
+    "name": "Harold Rivas"
+  },
+  {
+    "id": 5332624,
+    "name": "Dorian Soto"
+  },
+  {
+    "id": 5332989,
+    "name": "Alimber Santa"
+  },
+  {
+    "id": 5332990,
+    "name": "Micah Ottenbreit"
+  },
+  {
+    "id": 5332991,
+    "name": "Wilber Dotel"
+  },
+  {
+    "id": 5332992,
+    "name": "Nate Payne"
+  },
+  {
+    "id": 5332993,
+    "name": "Gerelmi Maldonado"
+  },
+  {
+    "id": 5332994,
+    "name": "Jedixson Paez"
+  },
+  {
+    "id": 5332995,
+    "name": "Leandro Lopez"
+  },
+  {
+    "id": 5332996,
+    "name": "Jose Olivares"
+  },
+  {
+    "id": 5332997,
+    "name": "David Davalillo"
+  },
+  {
+    "id": 5332998,
+    "name": "Miguel Mendez"
+  },
+  {
+    "id": 5333211,
+    "name": "Devin Saltiban"
+  },
+  {
+    "id": 5333212,
+    "name": "Ivan Luciano"
+  },
+  {
+    "id": 5333213,
+    "name": "Josiah Hartshorn"
+  },
+  {
+    "id": 5333216,
+    "name": "Gage Stanifer"
   }
 ]
