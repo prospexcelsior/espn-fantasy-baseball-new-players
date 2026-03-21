@@ -22,7 +22,7 @@ def get_players():
     response = requests.get(url, headers=headers, params=params)
     response.raise_for_status()
     data = response.json()
-    pprint(data)
+    # pprint(data)
 
     players = []
     for player_info in data:
