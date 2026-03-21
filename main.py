@@ -4,6 +4,7 @@ import requests
 from datetime import date
 import tweepy
 from pprint import pprint
+import traceback
 
 
 def get_players():
